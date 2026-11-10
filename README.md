@@ -9,3 +9,5 @@ Jeu de défense de village : le jour on bâtit, la nuit on tient. Export Web (We
 - Dans le navigateur, le classement en ligne et la coop ne sont pas disponibles.
 
 Chaque Release contient `ilot-web.zip` (l'export Godot) ; l'Action `pages.yml` le publie sur GitHub Pages.
+
+Version en ligne : web-2026-11-10-m33 (M33-M37, écran de chargement).
